@@ -1,4 +1,4 @@
-# IPRF
+# Interacting Population Rate Function (IPRF) Model
 
 We provide examples for both simulation and real data analysis. The simulation jupyter notebook is `Code/Simulation Pipeline - Public.ipynb`.
 The simulation pipleline includes data generation, model fitting, and some visualizations.
